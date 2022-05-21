@@ -1,0 +1,68 @@
+
+
+
+
+.img{
+    border-radius: 8%;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 0;
+    left: 500px;
+
+
+
+}
+
+
+body{
+  background: url(img/fondo1.jpg.jpg);
+}
+.letra{
+     color: black;
+     text-shadow: 5px 5px 5px #000;
+     font: oblique bold 120% cursive;
+}
+.pres{
+   
+    color: aliceblue; 
+    position: relative;
+    right: 0;
+    left: 500px;
+    text-decoration: underline;
+    text-shadow: 10px 5px 5px #000;
+
+    
+}
+.facebook{
+    
+    
+    width: 5%;
+    
+    
+   
+}
+.instagram{
+
+    width: 9.5%;
+    position: absolute;
+    right: 85%;
+    top: 158.5%;
+   
+    
+}
+.sub{
+    color: lime;
+
+}
+.video{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 0;
+    left: 400px;
+   
+}
+.titulo{
+    color: darkgoldenrods;
+}
